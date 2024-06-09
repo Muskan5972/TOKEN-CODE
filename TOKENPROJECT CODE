@@ -31,7 +31,7 @@ contract MyToken {
     function mint(address _address, uint _value) public{
         balances[_address]+= _value;
          totsupply += _value;
-        
+        }
 
     // burn function
     function burn(address _address, uint _value) public{

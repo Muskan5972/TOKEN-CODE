@@ -1,7 +1,7 @@
 # Project Title  
 Create a Token.
 
-# Description  
+## Description  
 This Solidity contract, MyToken, defines a simple token with public variables for the token name, abbreviation, and total supply. It includes functions to mint (create) new tokens and assign them to an address, and to burn (destroy) tokens from an address, while maintaining a mapping of token balances for each address.
 
 # Getting Started
